@@ -17,6 +17,7 @@ private final GridBagConstraints constraints; // restrições de layout
     
      public  Tutorial(){
          
+        //TESTANDO GITHUB ALTERAÇÃO CÓDIGO 16/06/2021
         
         layout = new GridBagLayout();
         //setLayout(layout); // configura o layout de frame
